@@ -1,0 +1,29 @@
+{
+    "Acao": [
+      { "id": 1, "titulo": "Adão negro", "direção": "Jaume Collet-Serra", "duração": "2h e 5min.", "ano": "2022" },
+
+      { "id": 2, "titulo": "Trem Bala", "direção": "David Leitch", "duração": "2h e 6min.", "ano": "2022" },
+
+      { "id": 3, "titulo": "Agente Oculto", "direção": "Joe Russo, Anthony Russo", "duração": "2h e 2min.", "ano":"2022" },
+
+      { "id": 4, "titulo": "A Mulher Rei", "direção": "Gina Prince-Bythewood", "duração": "2h e 14min.", "ano":"2022"}
+    ],
+    "Aventura": [
+        { "id": 1, "titulo": "Eternos", "direção": "Chloé Zhao", "duração": "2h e 37min.", "ano":"2021" },
+
+        { "id": 2, "titulo": "The Batman", "direção": "Matt Reeves", "duração": "2h e 56min", "ano":"2022" },
+
+        { "id": 3, "titulo": "O Homem do Norte", "direção": "Kharmel Cochrane", "duração": "2h e 17min", "ano":"2022" },
+
+        { "id": 4, "titulo": "Jurassic World: Domínio", "direção": "Colin Trevorrow", "duração": "2h e 27min", "ano":"2022" }
+    ],
+    "Animacao": [
+        { "id": 1, "titulo": "Lightyear", "direção": "Angus MacLane", "duração": "1h e 45min", "ano":"2022" },
+
+        { "id": 2, "titulo": "Red: Crescer é uma Fera", "direção": "Domee Shi", "duração": "1h e 40min", "ano":"2022" },
+
+        { "id": 3, "titulo": "Os Caras Malvados", "direção": "Pierre Perifel", "duração": "1h e 40min", "ano":"2022" },
+
+        { "id": 4, "titulo": "Minions 2: A Origem de Gru", "direção": "Kyle Balda", "duração": "1h e 30min", "ano":"2022" }
+    ]
+  }
